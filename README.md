@@ -1,10 +1,10 @@
 
-#e-Notes (Mini project made using MERN Stack)
+# e-Notes (Mini project made using MERN Stack)
 
 
 https://user-images.githubusercontent.com/65192638/176675951-e6a55296-91a2-468a-8683-d9aa92fc7b51.mp4
 
-#How to run the code
+# How to run the code
 
 1)Download the zip file
 
@@ -26,7 +26,8 @@ https://user-images.githubusercontent.com/65192638/176675951-e6a55296-91a2-468a-
    
       npm run start --> this will start your server
       
-      ![image](https://user-images.githubusercontent.com/65192638/176677686-1032601b-4c66-48d7-aba7-14b85bf4aaee.png)
+      ![image](https://user-images.githubusercontent.com/65192638/176678517-8db88b3b-e33b-4383-8292-28a4fbcd9ee3.png)
+
 
 5) Check if all the connections are working fine, you're good to go!
 
