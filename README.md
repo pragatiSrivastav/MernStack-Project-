@@ -19,12 +19,14 @@ https://user-images.githubusercontent.com/65192638/176675951-e6a55296-91a2-468a-
    a) go to your backend directory and give the below command 
    
       npm run dev --> this will start connecting to your mongoose database
-      ![image](https://user-images.githubusercontent.com/65192638/176677642-4492a650-d184-402a-9000-8afecdb73cd7.png)
+      ![image](https://user-images.githubusercontent.com/65192638/176678958-3088d280-2185-4c1d-911b-a4d3e76dc388.png)
+
+      
 
    b) remain outside of backend folder and give the below command
    
       npm run start --> this will start your server
-      ![image](https://user-images.githubusercontent.com/65192638/176678517-8db88b3b-e33b-4383-8292-28a4fbcd9ee3.png)
+      
 
 
 5) Check if all the connections are working fine, you're good to go!
