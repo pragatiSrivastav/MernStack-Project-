@@ -19,8 +19,6 @@ https://user-images.githubusercontent.com/65192638/176675951-e6a55296-91a2-468a-
    a) go to your backend directory and give the below command 
    
       npm run dev --> this will start connecting to your mongoose database
-      https://user-images.githubusercontent.com/65192638/176679177-62204561-4101-4e06-9e5b-41d4eb6e0acf.png
-
 
    b) remain outside of backend folder and give the below command
    
